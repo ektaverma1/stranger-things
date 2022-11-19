@@ -13,7 +13,7 @@
     "react-bootstrap-table2-paginator": "^2.1.0",
     "react-dom": "^16.6.0",
     "react-localization": "^1.0.15",
-    "react-scripts": "2.0.5",
+    "react-scripts": "5.0.1",
     "react-scroll": "^1.7.10",
     "react-swift-slider": "^6.4.0"
   },
